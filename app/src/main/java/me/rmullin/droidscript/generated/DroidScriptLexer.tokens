@@ -1,0 +1,17 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+STRING_LITERAL=6
+DIGIT=7
+SIGN=8
+VALID_SYMBOL_START=9
+VALID_SYMBOL_REST=10
+WS=11
+ESCAPES=12
+'('=1
+')'=2
+'false'=3
+'true'=4
+'.'=5
